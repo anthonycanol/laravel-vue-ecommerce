@@ -1,0 +1,12 @@
+<template>
+    <h1>Dashboard Here</h1>
+</template>
+
+<script>
+export default{
+    name: "Login"
+}
+</script>
+
+<style scoped>
+</style>
